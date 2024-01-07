@@ -186,8 +186,6 @@
 }
 ,{"type":"table","name":"users","database":"ia2website","data":
 [
-{"ID":"1","email":"nimmo.clay@gmail.com","password":"email","alertType":"0","location":"1"},
-{"ID":"2","email":"emaol@email.com","password":"password","alertType":"0","location":"1"}
 ]
 }
 ]
