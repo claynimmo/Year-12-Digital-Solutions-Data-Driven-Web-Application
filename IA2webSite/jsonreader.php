@@ -1,6 +1,6 @@
 <div id="id01"></div>
-
 <script>
+//unused code taken from somewhere on the internet in case i decided to convert the dat into json
 var xmlhttp = new XMLHttpRequest();
 var url = "ia2website.json";
 
